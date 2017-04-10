@@ -1,0 +1,42 @@
+.header {
+	color:#1B1E1F;
+	margin: 15px 0px 0px 0px;
+}
+
+.topcontainer {
+	background-color:#B26F81;
+	margin: 15px 0px 0px 15px;
+}
+
+.top {
+	background-color:#1B1E1F;
+	color:#14A0CC;
+}
+
+.bottom {
+	background-color:#1B1E1F;
+	color:#14A0CC;
+}
+
+.nav{
+	background-color:#FFEF19;
+	margin: 15px 0px 0px 0px;
+
+}
+
+.poster-image {
+	width: 400px;
+	height: 607px;
+	margin: 25px 0px 0px 15px;
+}
+
+.video {
+	width: 425px;
+	height: 315px;
+	margin: 0px 0px 15px;
+}
+
+body {
+	background-color:#1B1E1F;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
